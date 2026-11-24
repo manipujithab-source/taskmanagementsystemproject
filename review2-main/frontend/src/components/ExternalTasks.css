@@ -1,0 +1,38 @@
+
+.external-tasks {
+  padding: 30px;
+}
+
+.external-tasks h2 {
+  margin-bottom: 25px;
+  color: #222;
+}
+
+.external-task-card {
+  background: white;
+  padding: 18px 20px;
+  margin-bottom: 15px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.external-task-card p {
+  margin: 0;
+  color: #333;
+  font-size: 15px;
+}
+
+.external-task-number {
+  background: #635bff;
+  color: white;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
